@@ -11,8 +11,8 @@
 
 ### Machine Learning
 
-- [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
-  - Apply Clustering models (Kmeans, SOM, T-NSE and DBSCAN).
+- [__Concrete Strength Prediction using Regression Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Concrete-Strength-Prediction-using-Regression-Machine-Learning):
+  - Apply Regression models.
   
 ### Computer Vision 
 
