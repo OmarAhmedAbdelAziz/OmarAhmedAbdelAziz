@@ -17,8 +17,11 @@
 - [__Netflix Movies Recommendation System Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Netflix-Movies-Recommendation-System-Machine-Learning):
   - Apply Recommendation Systems models.
  
-- [__Concrete Strength Prediction using Regression Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Concrete-Strength-Prediction-using-Regression-Machine-Learning):
-  - Apply Regression models.
+- [__Customer Segmentation Using Clustering Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Customer-Segmentation-Using-Clustering-Machine-Learning):
+  - Apply Clustering models.
+
+- [__Diabetes Prediction Using Classification Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Diabetes-Prediction-Using-Classification-MachineLearning):
+  - Apply Classification models.
   
 ### Computer Vision 
 
