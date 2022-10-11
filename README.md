@@ -21,8 +21,12 @@
 
 ### NLP
 
-- [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
-  - Apply Clustering models (Kmeans, SOM, T-NSE and DBSCAN).
+- [__Sentiment Analysis for Arabic Comments using NLP__](https://github.com/OmarAhmedAbdelAziz/Sentiment-Analysis-for-Arabic-Comments-using-NLP):
+  - Apply NLP Techniques and Deep Neural Networks.
+
+- [__Audio Recognition using NLP__](https://github.com/OmarAhmedAbdelAziz/Audio-Recognition-Using-NLP):
+  - Apply NLP Techniques and Deep Neural Networks.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
