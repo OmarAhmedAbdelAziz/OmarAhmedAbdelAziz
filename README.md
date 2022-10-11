@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Computer Science student in Cairo University, Artificial Intelligence Department. I'm interested in Artificial Intelligence and Data Science, I'm developing my skills by studying the Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision.</h3>
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmedabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmedabdelaziz" /> </p>
+
 
 ### Projects
 ### -----------------------------------------------------------
