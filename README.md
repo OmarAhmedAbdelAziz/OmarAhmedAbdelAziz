@@ -27,6 +27,10 @@
 - [__Audio Recognition using NLP__](https://github.com/OmarAhmedAbdelAziz/Audio-Recognition-Using-NLP):
   - Apply Voice Processing Techniques and Deep Neural Networks.
 
+### Android Application
+
+- [__Khargny Mobile Application__](https://github.com/OmarAhmedAbdelAziz/Khargny-Mobile-Application):
+  - This application was developed using Kotlin after creating a full development plan for it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
