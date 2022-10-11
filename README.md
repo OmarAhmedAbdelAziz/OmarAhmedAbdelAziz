@@ -26,7 +26,7 @@
 ### Computer Vision 
 
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
-  - Apply Image Processing Techniques and GANs.
+  - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
   
 - [__Egyptian Money Classification Using CNN Deep Learning__](https://github.com/OmarAhmedAbdelAziz/Egyptian-Money-Classification-Using-CNN-Deep-Learning-):
   - Apply Image Processing Techniques and CNN.
