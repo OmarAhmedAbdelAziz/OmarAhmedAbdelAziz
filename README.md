@@ -5,11 +5,25 @@
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmedabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmedabdelaziz" /> </p>
-##Projects
+
+### Projects
+### -----------------------------------------------------------
+
 ### Machine Learning
 
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
   - Apply Clustering models (Kmeans, SOM, T-NSE and DBSCAN).
+  
+### Computer Vision 
+
+- [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
+  - Apply Clustering models (Kmeans, SOM, T-NSE and DBSCAN).
+
+### NLP
+
+- [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
+  - Apply Clustering models (Kmeans, SOM, T-NSE and DBSCAN).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omar-ahmed-abdel-aziz-958baa215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-ahmed-abdel-aziz-958baa215/" height="30" width="40" /></a>
