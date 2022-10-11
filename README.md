@@ -1,7 +1,7 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHfwj9Ci82_lA/profile-displaybackgroundimage-shrink_350_1400/0/1654369953186?e=1671062400&v=beta&t=8ONn-_dK-E4FjMiovZ_Cmr5xJI5z542xLtt92V6cUm4)
 
 <h1 align="center">Hi 👋, I'm Omar Ahmed Abdel-Aziz</h1>
-<h3 align="center">I'm a Computer Science student in Cairo University, Artificial Intelligence Department. I'm interested in Artificial Intelligence and Data Science, I'm developing my skills by studying the Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision.</h3>
+<h3 align="center">I'm a Computer Science student in Cairo University, Artificial Intelligence Department. I'm interested in Artificial Intelligence and Data Science, I'm developing my skills by studying the Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and doing projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 
