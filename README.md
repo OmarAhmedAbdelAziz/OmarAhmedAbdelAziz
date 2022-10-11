@@ -19,7 +19,7 @@
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
   - Apply Image Processing Techniques and GANs.
   
- - [__Egyptian Money Classification Using CNN Deep Learning__](https://github.com/OmarAhmedAbdelAziz/Egyptian-Money-Classification-Using-CNN-Deep-Learning-):
+- [__Egyptian Money Classification Using CNN Deep Learning__](https://github.com/OmarAhmedAbdelAziz/Egyptian-Money-Classification-Using-CNN-Deep-Learning-):
   - Apply Image Processing Techniques and CNN.
   
 ### NLP
