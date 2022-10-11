@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-ahmed-abdel-aziz-958baa215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarahmed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/omar.ahmeduwk.33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarahmed" height="30" width="40" /></a>
-<a href="https://instagram.com/omarahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarahmed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omar_abdel_aziz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
