@@ -14,6 +14,12 @@
 - [__Concrete Strength Prediction using Regression Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Concrete-Strength-Prediction-using-Regression-Machine-Learning):
   - Apply Regression models.
   
+- [__Netflix Movies Recommendation System Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Netflix-Movies-Recommendation-System-Machine-Learning):
+  - Apply Recommendation Systems models.
+ 
+- [__Concrete Strength Prediction using Regression Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Concrete-Strength-Prediction-using-Regression-Machine-Learning):
+  - Apply Regression models.
+  
 ### Computer Vision 
 
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
