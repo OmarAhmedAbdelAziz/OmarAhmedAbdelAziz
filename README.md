@@ -10,6 +10,8 @@
 ### -----------------------------------------------------------
 
 ### Machine Learning
+- [__World Cup 2022 Winner Prediction__](https://github.com/OmarAhmedAbdelAziz/World-Cup-2022-Winner-Prediction):
+  - Apply Regression models.
 
 - [__Concrete Strength Prediction using Regression Machine Learning__](https://github.com/OmarAhmedAbdelAziz/Concrete-Strength-Prediction-using-Regression-Machine-Learning):
   - Apply Regression models.
