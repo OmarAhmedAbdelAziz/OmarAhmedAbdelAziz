@@ -1,4 +1,4 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHfwj9Ci82_lA/profile-displaybackgroundimage-shrink_350_1400/0/1654369953186?e=1671062400&v=beta&t=8ONn-_dK-E4FjMiovZ_Cmr5xJI5z542xLtt92V6cUm4)
+![MasterHead](https://www.linkedin.com/in/omar-ahmed-abdel-aziz-958baa215/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Omar Ahmed Abdel-Aziz</h1>
 <h3 align="center">I'm a Computer Science student in Cairo University, Artificial Intelligence Department. I'm interested in Artificial Intelligence and Data Science, I'm developing my skills by studying the Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and doing projects.</h3>
