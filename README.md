@@ -1,4 +1,4 @@
-![MasterHead](https://www.linkedin.com/in/omar-ahmed-abdel-aziz-958baa215/overlay/background-image/](https://wallpaperaccess.com/full/1398313.jpg)
+![MasterHead](https://wallpaperaccess.com/full/1398313.jpg)
 
 <h1 align="center">Hi 👋, I'm Omar Ahmed Abdel-Aziz</h1>
 <h3 align="center">I'm a Computer Science student in Cairo University, Artificial Intelligence Department. I'm interested in Artificial Intelligence and Data Science, I'm developing my skills by studying the Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and doing projects.</h3>
