@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/1398313.jpg)
+![MasterHead](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/AI-brain-circuit-computer-chip-Getty.jpg)
 
 <h1 align="center">Hi 👋, I'm Omar Ahmed Abdel-Aziz</h1>
 <h3 align="center">I'm a Computer Science student in Cairo University, Artificial Intelligence Department. I'm interested in Artificial Intelligence and Data Science, I'm developing my skills by studying the Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and doing projects.</h3>
