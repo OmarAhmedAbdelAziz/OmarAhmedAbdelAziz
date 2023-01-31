@@ -33,6 +33,9 @@
 - [__Jesse-Pinkman in Breaking Bad Detection and Tracking using YOLOv7__](https://github.com/OmarAhmedAbdelAziz/Jesse-Pinkman-in-Breaking-Bad-Detection-and-Tracking-using-YOLOv7):
   - Apply YOLO V7 Algorithm.
   
+ - [__Image Segmentation using Unet__](https://github.com/OmarAhmedAbdelAziz/Image-Segmentation-using-U-net):
+  - Apply U-net Algorithm.
+  
 - [__Egyptian Money Classification Using CNN Deep Learning__](https://github.com/OmarAhmedAbdelAziz/Egyptian-Money-Classification-Using-CNN-Deep-Learning-):
   - Apply Image Processing Techniques and CNN.
   
