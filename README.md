@@ -29,7 +29,10 @@
 
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
   - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
-  
+
+- [__Art Generation using Neural Style Transfer__](https://github.com/OmarAhmedAbdelAziz/Art-Generation-using-Neural-Style-Transfer):
+  - Apply Neural Style Transfer Learning.
+  -   
 - [__Jesse-Pinkman in Breaking Bad Detection and Tracking using YOLOv7__](https://github.com/OmarAhmedAbdelAziz/Jesse-Pinkman-in-Breaking-Bad-Detection-and-Tracking-using-YOLOv7):
   - Apply YOLO V7 Algorithm.
   
