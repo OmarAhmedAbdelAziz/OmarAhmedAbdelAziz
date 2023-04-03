@@ -5,7 +5,7 @@
   
 I have completed two internships in data science, where I gained hands-on experience in analyzing and interpreting complex data sets to drive business insights. Additionally, I have completed several personal projects in areas such as machine learning, data science, computer vision, natural language processing. These projects have allowed me to apply my knowledge and skills to real-world problems and develop practical solutions.
 
-As I continue to learn and grow, I am committed to expanding my knowledge and expertise in artificial intelligence and data science. I am excited about the opportunities that lie ahead and look forward to contributing to the field in meaningful ways.
+I have completed two internships in data science, where I gained hands-on experience in analyzing and interpreting complex data sets to drive business insights. Additionally, I have completed several personal projects in areas such as machine learning, data science, computer vision, natural language processing. These projects have allowed me to apply my knowledge and skills to real-world problems and develop practical solutions
   
 As I continue to learn and grow, I am committed to expanding my knowledge and expertise in artificial intelligence and data science. I am excited about the opportunities that lie ahead and look forward to contributing to the field in meaningful ways.</h3>
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
