@@ -32,7 +32,7 @@ Additionally, I have completed several personal projects in areas such as machin
   
 ### Computer Vision 
 
-- [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
+- [__PixelPerfect Text-to-Image Generative Model__](https://github.com/OmarAhmedAbdelAziz/PixelPerfect-Text-to-Image-Generative-Model):
   - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
     
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
