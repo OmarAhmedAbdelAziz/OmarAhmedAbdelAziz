@@ -34,6 +34,9 @@ Additionally, I have completed several personal projects in areas such as machin
 
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
   - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
+    
+- [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
+  - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
 
 - [__Art Generation using Neural Style Transfer__](https://github.com/OmarAhmedAbdelAziz/Art-Generation-using-Neural-Style-Transfer):
   - Apply Neural Style Transfer Learning.
