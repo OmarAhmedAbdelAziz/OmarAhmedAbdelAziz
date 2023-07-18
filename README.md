@@ -32,8 +32,11 @@ Additionally, I have completed several personal projects in areas such as machin
   
 ### Computer Vision 
 
-- [__PixelPerfect Text-to-Image Generative Model__](https://github.com/OmarAhmedAbdelAziz/PixelPerfect-Text-to-Image-Generative-Model):
-  - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
+- [__PixelPerfect Text-to-Image Generative Model (Graduation Project)__](https://github.com/OmarAhmedAbdelAziz/PixelPerfect-Text-to-Image-Generative-Model):
+  - Creating a full development plan for the project.
+  - Dealing with Generative AI.
+  - Fine-Tuning LLM.
+  - Creating Text-to-Image Model.
     
 - [__Black & White Images Colorization using GANs__](https://github.com/OmarAhmedAbdelAziz/Black-White-Images-Colorization-using-GANs-Computer-Vision):
   - Apply Image Processing Techniques and GANs. (Used to colorize black & white egyptian movies)
