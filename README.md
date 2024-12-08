@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/AI-brain-circuit-computer-chip-Getty.jpg)
 
-<h1 align="center">Hi 👋, I'm Omar Ahmed Abdel-Aziz</h1>
-<h3 align="center">As a fresh graduate from the Faculty of Computers & Artificial Intelligence, my passion for artificial intelligence and data science has driven me to pursue a major in these fields. Through my academic studies and practical experience, I have developed a strong foundation in artificial intelligence and data science concepts and techniques.
+<h1 align="center">Hi, I'm Omar Ahmed Abdel-Aziz</h1>
+<h3 align="center">As an AI Engineer graduated from the Faculty of Computers & Artificial Intelligence, my passion for artificial intelligence and data science has driven me to pursue a major in these fields. Through my academic studies and practical experience, I have developed a strong foundation in artificial intelligence and data science concepts and techniques.
 <br>
 <h3 align="center">Through various internships and data science roles, I gained hands-on experience in analyzing and interpreting complex data sets to drive business insights. 
 Additionally, I have completed several personal projects in areas such as machine learning, data science, computer vision, natural language processing. These projects have allowed me to apply my knowledge and skills to real-world problems and develop practical solutions.
