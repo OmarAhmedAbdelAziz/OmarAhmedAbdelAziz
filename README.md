@@ -1,12 +1,11 @@
 ![MasterHead](https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/AI-brain-circuit-computer-chip-Getty.jpg)
 
 <h1 align="center">Hi, I'm Omar Ahmed Abdel-Aziz</h1>
-<h3 align="center">As an AI Engineer graduated from the Faculty of Computers & Artificial Intelligence, my passion for artificial intelligence and data science has driven me to pursue a major in these fields. Through my academic studies and practical experience, I have developed a strong foundation in artificial intelligence and data science concepts and techniques.
+<h3 align="center">As AI Engineer, I turn data into intelligent systems. My work sits at the intersection of data science and AI, from analyzing data and building predictive models to developing and deploying generative AI solutions. 
 <br>
-<h3 align="center">Through various internships and data science roles, I gained hands-on experience in analyzing and interpreting complex data sets to drive business insights. 
-Additionally, I have completed several personal projects in areas such as machine learning, data science, computer vision, natural language processing. These projects have allowed me to apply my knowledge and skills to real-world problems and develop practical solutions.
+<h3 align="center">I work across machine learning and deep learning, from predictive modeling to computer vision and NLP, and I turn large datasets into clear insights and dashboards. I also build generative AI systems and AI agents that connect multiple models and automate complex workflows. Everything I build is made to run in production, with scalable backends, containerized deployments, and a focus on performance and data privacy.
 <br>
-<h3 align="center">As I continue to learn and grow, I am committed to expanding my knowledge and expertise in artificial intelligence and data science. I am excited about the opportunities that lie ahead and look forward to contributing to the field in meaningful ways.</h3>
+<h3 align="center">AI'm always learning and building, whether that's a new model, a better pipeline, or a cleaner way to make data useful.</h3>
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 
