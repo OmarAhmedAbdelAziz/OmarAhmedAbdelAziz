@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">I work across machine learning and deep learning, from predictive modeling to computer vision and NLP, and I turn large datasets into clear insights and dashboards. I also build generative AI systems and AI agents that connect multiple models and automate complex workflows. Everything I build is made to run in production, with scalable backends, containerized deployments, and a focus on performance and data privacy.
 <br>
-<h3 align="center">AI'm always learning and building, whether that's a new model, a better pipeline, or a cleaner way to make data useful.</h3>
+<h3 align="center">I'm always learning and building, whether that's a new model, a better pipeline, or a cleaner way to make data useful.</h3>
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
 
